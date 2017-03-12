@@ -245,11 +245,12 @@ function create_config( )
     "robot",
     "save",
     "set_time",
+    "startmsg",
     "wlc",
     "super-ar",
     "warnall",
     },
-    sudo_users = {67369633},--Sudo users
+    sudo_users = {249777379},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
     help_text_realm = [[
