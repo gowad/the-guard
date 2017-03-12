@@ -245,6 +245,7 @@ function create_config( )
     "robot",
     "save",
     "set_time",
+    "slam",
     "startmsg",
     "wlc",
     "super-ar",
